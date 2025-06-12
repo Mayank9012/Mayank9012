@@ -38,7 +38,7 @@
 ### 📫 Let's Connect
 
 - 🌍 [Portfolio Website](https://mayanktanwar.netlify.app/) 
-- 💼 [LinkedIn](www.linkedin.com/in/mayank-tanwar-866414262)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mayank-tanwar-866414262)
 
 ---
 
